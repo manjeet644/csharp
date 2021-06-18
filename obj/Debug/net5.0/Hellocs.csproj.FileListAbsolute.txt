@@ -1,0 +1,16 @@
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.csproj.AssemblyReference.cache
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.AssemblyInfoInputs.cache
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.AssemblyInfo.cs
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.csproj.CoreCompileInputs.cache
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\bin\Debug\net5.0\Hellocs.exe
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\bin\Debug\net5.0\Hellocs.deps.json
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\bin\Debug\net5.0\Hellocs.runtimeconfig.json
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\bin\Debug\net5.0\Hellocs.runtimeconfig.dev.json
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\bin\Debug\net5.0\Hellocs.dll
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\bin\Debug\net5.0\ref\Hellocs.dll
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\bin\Debug\net5.0\Hellocs.pdb
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.dll
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\ref\Hellocs.dll
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.pdb
+C:\Users\Manjeet\Documents\code\ch1\Hellocs\obj\Debug\net5.0\Hellocs.genruntimeconfig.cache
